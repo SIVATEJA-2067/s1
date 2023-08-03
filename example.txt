@@ -24,7 +24,7 @@ class TestAbstraction2 {
     }
 }
 
-outPut:
+output:
 
 bike is created
 running safely..

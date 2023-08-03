@@ -26,3 +26,4 @@ class TestAbstraction2 {
 
 out
 Put:
+2548

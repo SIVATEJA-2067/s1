@@ -24,6 +24,9 @@ class TestAbstraction2 {
     }
 }
 
-out
-Put:
-2548
+outPut:
+
+bike is created
+running safely..
+gear changed
+
